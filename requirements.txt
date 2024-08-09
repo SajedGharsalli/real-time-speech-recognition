@@ -1,0 +1,6 @@
+python 3.9.9
+pyaudio 
+openai_whisper 
+torch
+numpy
+scipy
